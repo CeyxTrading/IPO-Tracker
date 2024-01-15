@@ -1,5 +1,5 @@
 # IPO-Tracker
-a tool that tracks IPO price
+
 ![image](https://github.com/CeyxTrading/IPO-Tracker/assets/119662508/f33915b1-8bb8-43d9-8dac-4140c1d86887)
 
 I opted to create an IPO price tracking system that automates price updates and monitors price trends. Additionally, I envisioned the tracker dashboard to be presented in HTML format. This choice would enable me to incorporate links to Yahoo Finance for convenient access to information about the company's background, media coverage, and fundamentals.
